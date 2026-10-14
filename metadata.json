@@ -1,0 +1,6 @@
+{
+  "name": "TN IV Express — College Industrial Visit Transport & Packages",
+  "description": "Tamil Nadu's premier Industrial Visit transport suggestion and package planning platform. Compare BharatBenz & Volvo luxury DJ coaches, curated itineraries to ISRO, NLC, Ooty tea factories, and cost calculators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
